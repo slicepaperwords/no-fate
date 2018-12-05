@@ -6,4 +6,4 @@ def hello():
     return "No Fate"
 
 if __name__ == "__main__":
-application.run()
+    application.run()
